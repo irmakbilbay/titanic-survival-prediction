@@ -43,8 +43,7 @@ Doğruluk (Accuracy) skorları, Hata Matrisi (Confusion Matrix) ve Özellik Öne
 
 ### Analiz Bulguları
 - Random Forest algoritması daha yüksek başarı göstermiştir.
-- Özellik önemi analizinde, hayatta kalmayı en çok etkileyen faktörlerin Cinsiyet (Sex) ve Yaş (Age) olduğu görülmüştür  
-  ("Kadınlar ve çocuklar önden" ilkesiyle uyumlu).
+- Özellik önemi analizinde, hayatta kalmayı en çok etkileyen faktörlerin Cinsiyet (Sex) ve Yaş (Age) olduğu görülmüştür ("Kadınlar ve çocuklar önden" ilkesiyle uyumlu).
 
 ## 📂 Veri Kaynağı
 
